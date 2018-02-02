@@ -9,7 +9,7 @@ use yii\helpers\Json;
 
 /**
  * @property mixed modelData
- * @property Model model
+ * @property GenericEvent model
  */
 abstract class Event extends crud\Event {
 
