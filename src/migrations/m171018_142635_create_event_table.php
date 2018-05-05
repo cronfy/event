@@ -1,7 +1,5 @@
 <?php
 
-namespace cronfy\event\migrations;
-
 use yii\db\Migration;
 
 /**
