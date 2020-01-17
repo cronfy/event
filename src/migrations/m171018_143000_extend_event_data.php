@@ -20,6 +20,6 @@ class m171018_143000_extend_event_data extends Migration
      */
     public function down()
     {
-        return false;
+        return true;
     }
 }
